@@ -1,4 +1,4 @@
-> ESTE É UM MODELO EXPERIMENTAL DE PROJEÇÃO ESTATÍSTICA. NÃO É UMA PESQUISA ELEITORAL, NEM REGISTRADA NO TSE (Res. 23.600)[https://www.tse.jus.br/legislacao/compilada/res/2019/resolucao-no-23-600-de-12-de-dezembro-de-2019].
+> ESTE É UM MODELO EXPERIMENTAL DE PROJEÇÃO ESTATÍSTICA. NÃO É UMA PESQUISA ELEITORAL, NEM REGISTRADA NO TSE [Res. 23.600](https://www.tse.jus.br/legislacao/compilada/res/2019/resolucao-no-23-600-de-12-de-dezembro-de-2019).
 Não deve ser divulgado como pesquisa.
 
 # Votum
