@@ -345,11 +345,11 @@ Built by SynastrIA Networks.
 
 ---
 
-# Votum V1.5 - Municipal 2028 TODO
+# Votum V1.5 - Municipal 2028 TODO 🇧🇷
 
 > Objetivo: Adaptar a arquitetura Votum (GNN espacial + Transformer temporal) para 5.570 corridas de prefeito simultâneas.
 
-Este branch é experimental para as Eleições Municipais de 2028. Não é pesquisa eleitoral registrada no TSE Res. 23.600.
+Mudanças experimentais para as Eleições Municipais de 2028. Não é pesquisa eleitoral registrada no TSE Res. 23.600.
 
 ## Fase 1 - Dados (Q1 2028)
 
